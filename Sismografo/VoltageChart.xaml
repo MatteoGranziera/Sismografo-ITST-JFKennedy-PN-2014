@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Sismografo.VoltageChart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d3="http://research.microsoft.com/DynamicDataDisplay/1.0"
+        Height="600" Width="800">
+    	<Grid>
+        <d3:ChartPlotter x:Name="plotter" Grid.Row="1" Grid.Column="1" >
+            <d3:ChartPlotter.HorizontalAxis>
+                <d3:HorizontalDateTimeAxis Name="dateAxis"/>
+            </d3:ChartPlotter.HorizontalAxis>
+            <d3:Header FontFamily="Georgia" Content="Voltage chart" FontSize="12"/>
+            <d3:VerticalAxisTitle FontFamily="Georgia" Content="Voltage [V]" FontSize="12" />
+            <d3:HorizontalAxisTitle FontFamily="Georgia" Content="Time" FontSize="12"/>
+            <d3:HorizontalLine Value="{Binding MaxVoltage}" Stroke="Red" StrokeThickness="1"/>
+            <d3:HorizontalLine Value="{Binding MinVoltage}" Stroke="Red" StrokeThickness="1"/>
+        </d3:ChartPlotter>
+    </Grid>
+</UserControl>

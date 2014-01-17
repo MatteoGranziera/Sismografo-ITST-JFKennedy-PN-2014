@@ -1,0 +1,16 @@
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.Config.resources
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.csproj.GenerateResource.Cache
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\Sismolib.dll.config
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\Sismolib.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\Sismolib.pdb
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\mysql.data.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\mysql.data.entity.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\mysql.web.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\NationalInstruments.DAQmx.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\NationalInstruments.Common.Native.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\bin\Release\NationalInstruments.DAQmx.xml
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.dll
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.pdb
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.csprojResolveAssemblyReference.cache
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.frmLoading.resources
+Z:\Users\Tomo-chan\documents\visual studio 2012\Projects\Sismografo\Sismolib\obj\Release\Sismolib.Monitor.resources

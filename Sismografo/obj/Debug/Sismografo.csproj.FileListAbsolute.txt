@@ -1,0 +1,37 @@
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\Sismografo.exe
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\Sismografo.pdb
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\MainWindow.baml
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Simple Styles.baml
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\App.baml
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\MainWindow.g.cs
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\App.g.cs
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Sismografo_MarkupCompile.cache
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Sismografo.g.resources
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Sismografo.exe
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Sismografo.pdb
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\DynamicDataDisplay.Controls.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\DynamicDataDisplay.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\DynamicDataDisplay.xml
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\DynamicDataDisplay.Controls.xml
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\ru-ru\DynamicDataDisplay.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Sismografo.csprojResolveAssemblyReference.cache
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\Xceed.Wpf.AvalonDock.pdb
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\VoltageChart.baml
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\VoltageChart.g.cs
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\obj\Debug\Sismografo_MarkupCompile.lref
+Z:\Users\Tomo-chan\Documents\Expression\Blend 4\Projects\Sismografo\Sismografo\bin\Debug\Sismografo.exe.config
+Z:\Users\Tomo-chan\Documents\ProgettoSismografo\Sismografo\Sismografo\bin\Debug\Sismografo.exe.config
+Z:\Users\Tomo-chan\Documents\ProgettoSismografo\Sismografo\Sismografo\obj\Debug\Sismografo.exe
+Z:\Users\Tomo-chan\Documents\ProgettoSismografo\Sismografo\Sismografo\obj\Debug\Sismografo.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sismografo", "Sismografo\Sismografo.csproj", "{048F7253-435D-4DEF-92FA-CE3FF9DCDCAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sismolib", "Sismolib\Sismolib.csproj", "{ECF8D802-D3F2-4357-8DAA-456CD6E21979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048F7253-435D-4DEF-92FA-CE3FF9DCDCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048F7253-435D-4DEF-92FA-CE3FF9DCDCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048F7253-435D-4DEF-92FA-CE3FF9DCDCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048F7253-435D-4DEF-92FA-CE3FF9DCDCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF8D802-D3F2-4357-8DAA-456CD6E21979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF8D802-D3F2-4357-8DAA-456CD6E21979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF8D802-D3F2-4357-8DAA-456CD6E21979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF8D802-D3F2-4357-8DAA-456CD6E21979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
